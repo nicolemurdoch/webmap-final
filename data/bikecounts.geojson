@@ -1,0 +1,1624 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 1,
+        "street": "49 AVENUE",
+        "wkdy18": 139,
+        "wknd18": 120,
+        "dev_avg18": 0.97,
+        "percentile": 0.0992857142857,
+        "weekend": 120,
+        "weekday": 139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.95503898944456, 40.74364488620111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 2,
+        "street": "46 ROAD",
+        "wkdy18": 95,
+        "wknd18": 73,
+        "dev_avg18": 0.86,
+        "percentile": 0.0678571428571,
+        "weekend": 73,
+        "weekday": 95
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9541136121904, 40.746411233696016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 4,
+        "street": "44 ROAD",
+        "wkdy18": 24,
+        "wknd18": 12,
+        "dev_avg18": 0.56,
+        "percentile": 0.0171428571429,
+        "weekend": 12,
+        "weekday": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.94339631458632, 40.74813390719008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 5,
+        "street": "VERNON BOULEVARD",
+        "wkdy18": 873,
+        "wknd18": 566,
+        "dev_avg18": 0.73,
+        "percentile": 0.623571428571,
+        "weekend": 566,
+        "weekday": 873
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.94373511682731, 40.75998285830819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 6,
+        "street": "BROADWAY",
+        "wkdy18": 1385,
+        "wknd18": 1303,
+        "dev_avg18": 1.06,
+        "percentile": 0.989285714286,
+        "weekend": 1303,
+        "weekday": 1385
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.94153997928481, 40.700503181251456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 7,
+        "street": "BUSHWICK AVENUE",
+        "wkdy18": 482,
+        "wknd18": 495,
+        "dev_avg18": 1.15,
+        "percentile": 0.344285714286,
+        "weekend": 495,
+        "weekday": 482
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9357777847071, 40.6995568824269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 9,
+        "street": "MYRTLE AVENUE",
+        "wkdy18": 799,
+        "wknd18": 716,
+        "dev_avg18": 1.01,
+        "percentile": 0.570714285714,
+        "weekend": 716,
+        "weekday": 799
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92693921564666, 40.69790889146676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 10,
+        "street": "BUSHWICK AVENUE",
+        "wkdy18": 360,
+        "wknd18": 404,
+        "dev_avg18": 1.26,
+        "percentile": 0.257142857143,
+        "weekend": 404,
+        "weekday": 360
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92329513704446, 40.69241933507367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 12,
+        "street": "ST NICHOLAS AVENUE",
+        "wkdy18": 271,
+        "wknd18": 244,
+        "dev_avg18": 1.01,
+        "percentile": 0.193571428571,
+        "weekend": 244,
+        "weekday": 271
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92141128803986, 40.707417368149954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 13,
+        "street": "BROADWAY",
+        "wkdy18": 732,
+        "wknd18": 678,
+        "dev_avg18": 1.04,
+        "percentile": 0.522857142857,
+        "weekend": 678,
+        "weekday": 732
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92017987425538, 40.688426082100165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 14,
+        "street": "GREENE AVENUE",
+        "wkdy18": 150,
+        "wknd18": 188,
+        "dev_avg18": 1.41,
+        "percentile": 0.107142857143,
+        "weekend": 188,
+        "weekday": 150
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.91784954183505, 40.699756611925224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 15,
+        "street": "STOCKHOLM STREET",
+        "wkdy18": 89,
+        "wknd18": 94,
+        "dev_avg18": 1.19,
+        "percentile": 0.0635714285714,
+        "weekend": 94,
+        "weekday": 89
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.91567723247358, 40.706628784705245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 16,
+        "street": "PALMETTO STREET",
+        "wkdy18": 160,
+        "wknd18": 155,
+        "dev_avg18": 1.09,
+        "percentile": 0.114285714286,
+        "weekend": 155,
+        "weekday": 160
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.91048654817978, 40.70007048792959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 19,
+        "street": "METROPOLITAN AVENUE",
+        "wkdy18": 200,
+        "wknd18": 176,
+        "dev_avg18": 0.99,
+        "percentile": 0.142857142857,
+        "weekend": 176,
+        "weekday": 200
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.90996901852125, 40.71313517259769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 22,
+        "street": "ONDERDONK AVENUE",
+        "wkdy18": 221,
+        "wknd18": 193,
+        "dev_avg18": 0.98,
+        "percentile": 0.157857142857,
+        "weekend": 193,
+        "weekday": 221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.90491260953914, 40.70261898437563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 23,
+        "street": "SUMMERFIELD STREET",
+        "wkdy18": 68,
+        "wknd18": 73,
+        "dev_avg18": 1.21,
+        "percentile": 0.0485714285714,
+        "weekend": 73,
+        "weekday": 68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89993820094529, 40.697314714577196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 24,
+        "street": "69 AVENUE",
+        "wkdy18": 111,
+        "wknd18": 110,
+        "dev_avg18": 1.11,
+        "percentile": 0.0792857142857,
+        "weekend": 110,
+        "weekday": 111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89638161759987, 40.70301586024088]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 25,
+        "street": "FRESH POND ROAD",
+        "wkdy18": 335,
+        "wknd18": 311,
+        "dev_avg18": 1.04,
+        "percentile": 0.239285714286,
+        "weekend": 311,
+        "weekday": 335
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89822801133629, 40.70872071581273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 26,
+        "street": "ELIOT AVENUE",
+        "wkdy18": 92,
+        "wknd18": 113,
+        "dev_avg18": 1.38,
+        "percentile": 0.0657142857143,
+        "weekend": 113,
+        "weekday": 92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89958425867823, 40.71539024445888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 27,
+        "street": "JUNIPER VALLEY ROAD",
+        "wkdy18": 61,
+        "wknd18": 42,
+        "dev_avg18": 0.77,
+        "percentile": 0.0435714285714,
+        "weekend": 42,
+        "weekday": 61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.88282736438305, 40.714793441822636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 28,
+        "street": "CENTRAL AVENUE",
+        "wkdy18": 218,
+        "wknd18": 220,
+        "dev_avg18": 1.13,
+        "percentile": 0.155714285714,
+        "weekend": 220,
+        "weekday": 218
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.88071877100684, 40.70471067314003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 29,
+        "street": "77 AVENUE",
+        "wkdy18": 59,
+        "wknd18": 59,
+        "dev_avg18": 1.12,
+        "percentile": 0.0421428571429,
+        "weekend": 59,
+        "weekday": 59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8718697589058, 40.70669574833032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 30,
+        "street": "79 AVENUE",
+        "wkdy18": 12,
+        "wknd18": 3,
+        "dev_avg18": 0.28,
+        "percentile": 0.00857142857143,
+        "weekend": 3,
+        "weekday": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.86140385254821, 40.70510812184733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 31,
+        "street": "HUNTERS POINT AVENUE",
+        "wkdy18": 74,
+        "wknd18": 18,
+        "dev_avg18": 0.27,
+        "percentile": 0.0528571428571,
+        "weekend": 18,
+        "weekday": 74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.93327461337567, 40.73907163443902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 32,
+        "street": "46 STREET",
+        "wkdy18": 11,
+        "wknd18": 2,
+        "dev_avg18": 0.2,
+        "percentile": 0.00785714285714,
+        "weekend": 2,
+        "weekday": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92165511428352, 40.732002409715285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 33,
+        "street": "50 AVENUE",
+        "wkdy18": 82,
+        "wknd18": 95,
+        "dev_avg18": 1.3,
+        "percentile": 0.0585714285714,
+        "weekend": 95,
+        "weekday": 82
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92308290972501, 40.73784102905241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 34,
+        "street": "GREENPOINT AVENUE",
+        "wkdy18": 543,
+        "wknd18": 301,
+        "dev_avg18": 0.62,
+        "percentile": 0.387857142857,
+        "weekend": 301,
+        "weekday": 543
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92252073770378, 40.74066322611765]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 35,
+        "street": "48 STREET",
+        "wkdy18": 279,
+        "wknd18": 175,
+        "dev_avg18": 0.7,
+        "percentile": 0.199285714286,
+        "weekend": 175,
+        "weekday": 279
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.91779684260354, 40.73817351015335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 36,
+        "street": "47 STREET",
+        "wkdy18": 125,
+        "wknd18": 132,
+        "dev_avg18": 1.19,
+        "percentile": 0.0892857142857,
+        "weekend": 132,
+        "weekday": 125
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.91802265655674, 40.741778948037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 37,
+        "street": "27 STREET",
+        "wkdy18": 27,
+        "wknd18": 11,
+        "dev_avg18": 0.46,
+        "percentile": 0.0192857142857,
+        "weekend": 11,
+        "weekday": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.94038069130403, 40.74402486414122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 38,
+        "street": "9 STREET",
+        "wkdy18": 46,
+        "wknd18": 17,
+        "dev_avg18": 0.42,
+        "percentile": 0.0328571428571,
+        "weekend": 17,
+        "weekday": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.94287039323913, 40.75966749005148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 40,
+        "street": "38 AVENUE",
+        "wkdy18": 113,
+        "wknd18": 32,
+        "dev_avg18": 0.32,
+        "percentile": 0.0807142857143,
+        "weekend": 32,
+        "weekday": 113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.93541886375858, 40.755593540300346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 41,
+        "street": "HONEYWELL STREET",
+        "wkdy18": 182,
+        "wknd18": 70,
+        "dev_avg18": 0.43,
+        "percentile": 0.13,
+        "weekend": 70,
+        "weekday": 182
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.93120361855652, 40.750575197389196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 42,
+        "street": "29 STREET",
+        "wkdy18": 685,
+        "wknd18": 368,
+        "dev_avg18": 0.6,
+        "percentile": 0.489285714286,
+        "weekend": 368,
+        "weekday": 685
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.93072562126599, 40.7581069789207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 43,
+        "street": "31 AVENUE",
+        "wkdy18": 215,
+        "wknd18": 174,
+        "dev_avg18": 0.91,
+        "percentile": 0.153571428571,
+        "weekend": 174,
+        "weekday": 215
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.93094009077879, 40.76779152935452]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 44,
+        "street": "30 DRIVE",
+        "wkdy18": 54,
+        "wknd18": 33,
+        "dev_avg18": 0.69,
+        "percentile": 0.0385714285714,
+        "weekend": 33,
+        "weekday": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.93022628454122, 40.7686759610501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 45,
+        "street": "32 STREET",
+        "wkdy18": 166,
+        "wknd18": 175,
+        "dev_avg18": 1.18,
+        "percentile": 0.118571428571,
+        "weekend": 175,
+        "weekday": 166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92362577054315, 40.76278333322622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 46,
+        "street": "43 AVENUE",
+        "wkdy18": 1078,
+        "wknd18": 493,
+        "dev_avg18": 0.51,
+        "percentile": 0.77,
+        "weekend": 493,
+        "weekday": 1078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9178845912808, 40.74484648121208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 47,
+        "street": "36 STREET",
+        "wkdy18": 135,
+        "wknd18": 166,
+        "dev_avg18": 1.38,
+        "percentile": 0.0964285714286,
+        "weekend": 166,
+        "weekday": 135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.91499521433204, 40.767964927755585]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 49,
+        "street": "43 STREET",
+        "wkdy18": 139,
+        "wknd18": 78,
+        "dev_avg18": 0.63,
+        "percentile": 0.0992857142857,
+        "weekend": 78,
+        "weekday": 139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.91029792165939, 40.765590842900636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 50,
+        "street": "12 STREET",
+        "wkdy18": 134,
+        "wknd18": 90,
+        "dev_avg18": 0.75,
+        "percentile": 0.0957142857143,
+        "weekend": 90,
+        "weekday": 134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92945982181497, 40.77439131382309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 51,
+        "street": "19 STREET",
+        "wkdy18": 142,
+        "wknd18": 103,
+        "dev_avg18": 0.82,
+        "percentile": 0.101428571429,
+        "weekend": 103,
+        "weekday": 142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92297965176729, 40.77715297356075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 52,
+        "street": "21 AVENUE",
+        "wkdy18": 155,
+        "wknd18": 125,
+        "dev_avg18": 0.91,
+        "percentile": 0.110714285714,
+        "weekend": 125,
+        "weekday": 155
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.91049082153694, 40.779392333327806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 53,
+        "street": "HAMILTON PLACE",
+        "wkdy18": 48,
+        "wknd18": 41,
+        "dev_avg18": 0.96,
+        "percentile": 0.0342857142857,
+        "weekend": 41,
+        "weekday": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89877100967905, 40.724654875721484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 54,
+        "street": "HULL AVENUE",
+        "wkdy18": 9,
+        "wknd18": 10,
+        "dev_avg18": 1.25,
+        "percentile": 0.00642857142857,
+        "weekend": 10,
+        "weekday": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89761560231403, 40.72723978902493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 55,
+        "street": "50 AVENUE",
+        "wkdy18": 122,
+        "wknd18": 45,
+        "dev_avg18": 0.41,
+        "percentile": 0.0871428571429,
+        "weekend": 45,
+        "weekday": 122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89730051396565, 40.73695536359107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 56,
+        "street": "67 STREET",
+        "wkdy18": 30,
+        "wknd18": 33,
+        "dev_avg18": 1.24,
+        "percentile": 0.0214285714286,
+        "weekend": 33,
+        "weekday": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89771922360033, 40.738036990117806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 57,
+        "street": "70 STREET",
+        "wkdy18": 27,
+        "wknd18": 31,
+        "dev_avg18": 1.29,
+        "percentile": 0.0192857142857,
+        "weekend": 31,
+        "weekday": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89391152998361, 40.73169669395551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 58,
+        "street": "69 PLACE",
+        "wkdy18": 33,
+        "wknd18": 23,
+        "dev_avg18": 0.78,
+        "percentile": 0.0235714285714,
+        "weekend": 23,
+        "weekday": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.88996455513414, 40.72053258656721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 60,
+        "street": "80 STREET",
+        "wkdy18": 172,
+        "wknd18": 155,
+        "dev_avg18": 1.01,
+        "percentile": 0.122857142857,
+        "weekend": 155,
+        "weekday": 172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8722378598967, 40.716910710740464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 61,
+        "street": "57 STREET",
+        "wkdy18": 57,
+        "wknd18": 44,
+        "dev_avg18": 0.87,
+        "percentile": 0.0407142857143,
+        "weekend": 44,
+        "weekday": 57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.90675203716665, 40.747007710577385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 62,
+        "street": "NORTHERN BOULEVARD",
+        "wkdy18": 60,
+        "wknd18": 142,
+        "dev_avg18": 2.66,
+        "percentile": 0.0428571428571,
+        "weekend": 142,
+        "weekday": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.90441986026393, 40.75355830179992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 63,
+        "street": "BROADWAY",
+        "wkdy18": 449,
+        "wknd18": 310,
+        "dev_avg18": 0.78,
+        "percentile": 0.320714285714,
+        "weekend": 310,
+        "weekday": 449
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.90316371901642, 40.751671498603876]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 64,
+        "street": "61 STREET",
+        "wkdy18": 81,
+        "wknd18": 46,
+        "dev_avg18": 0.64,
+        "percentile": 0.0578571428571,
+        "weekend": 46,
+        "weekday": 81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.90104210467327, 40.752982241839575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 65,
+        "street": "DITMARS BOULEVARD",
+        "wkdy18": 260,
+        "wknd18": 114,
+        "dev_avg18": 0.49,
+        "percentile": 0.185714285714,
+        "weekend": 114,
+        "weekday": 260
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89480687684448, 40.76839519313115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 66,
+        "street": "38 STREET",
+        "wkdy18": 28,
+        "wknd18": 28,
+        "dev_avg18": 1.12,
+        "percentile": 0.02,
+        "weekend": 28,
+        "weekday": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.90416553168909, 40.77551349046865]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 67,
+        "street": "20 AVENUE",
+        "wkdy18": 169,
+        "wknd18": 75,
+        "dev_avg18": 0.5,
+        "percentile": 0.120714285714,
+        "weekend": 75,
+        "weekday": 169
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89771739896524, 40.77366781810941]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 68,
+        "street": "45 STREET",
+        "wkdy18": 17,
+        "wknd18": 7,
+        "dev_avg18": 0.46,
+        "percentile": 0.0121428571429,
+        "weekend": 7,
+        "weekday": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89767819157616, 40.7753363349957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 69,
+        "street": "47 STREET",
+        "wkdy18": 130,
+        "wknd18": 47,
+        "dev_avg18": 0.41,
+        "percentile": 0.0928571428571,
+        "weekend": 47,
+        "weekday": 130
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92234835416635, 40.718474225364034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 70,
+        "street": "OTTO ROAD",
+        "wkdy18": 82,
+        "wknd18": 58,
+        "dev_avg18": 0.79,
+        "percentile": 0.0585714285714,
+        "weekend": 58,
+        "weekday": 82
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89044824098585, 40.70439440863393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 72,
+        "street": "METROPOLITAN AVENUE",
+        "wkdy18": 264,
+        "wknd18": 193,
+        "dev_avg18": 0.82,
+        "percentile": 0.188571428571,
+        "weekend": 193,
+        "weekday": 264
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89122348581455, 40.71235512648078]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 73,
+        "street": "21 STREET",
+        "wkdy18": 292,
+        "wknd18": 125,
+        "dev_avg18": 0.48,
+        "percentile": 0.208571428571,
+        "weekend": 125,
+        "weekday": 292
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.94588700555369, 40.7503839204513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 74,
+        "street": "37 STREET",
+        "wkdy18": 62,
+        "wknd18": 75,
+        "dev_avg18": 1.36,
+        "percentile": 0.0442857142857,
+        "weekend": 75,
+        "weekday": 62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.90873346263184, 40.77283976885052]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 75,
+        "street": "FLUSHING AVENUE",
+        "wkdy18": 219,
+        "wknd18": 120,
+        "dev_avg18": 0.62,
+        "percentile": 0.156428571429,
+        "weekend": 120,
+        "weekday": 219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.90512786884246, 40.72039553265634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 76,
+        "street": "TYLER AVENUE",
+        "wkdy18": 46,
+        "wknd18": 28,
+        "dev_avg18": 0.68,
+        "percentile": 0.0328571428571,
+        "weekend": 28,
+        "weekday": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9035772997863, 40.73511498268315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 77,
+        "street": "62 STREET",
+        "wkdy18": 32,
+        "wknd18": 19,
+        "dev_avg18": 0.67,
+        "percentile": 0.0228571428571,
+        "weekend": 19,
+        "weekday": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9006876770572, 40.73302388703751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 78,
+        "street": "51 AVENUE",
+        "wkdy18": 18,
+        "wknd18": 5,
+        "dev_avg18": 0.31,
+        "percentile": 0.0128571428571,
+        "weekend": 5,
+        "weekday": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.90235572193734, 40.73566984147572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 79,
+        "street": "JUNIPER BOULEVARD SOUTH",
+        "wkdy18": 230,
+        "wknd18": 275,
+        "dev_avg18": 1.34,
+        "percentile": 0.164285714286,
+        "weekend": 275,
+        "weekday": 230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.87987282384607, 40.719297750917846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 80,
+        "street": "ELIOT AVENUE",
+        "wkdy18": 144,
+        "wknd18": 140,
+        "dev_avg18": 1.09,
+        "percentile": 0.102857142857,
+        "weekend": 140,
+        "weekday": 144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.87984355385065, 40.72471080957966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 81,
+        "street": "80 STREET",
+        "wkdy18": 155,
+        "wknd18": 140,
+        "dev_avg18": 1.01,
+        "percentile": 0.110714285714,
+        "weekend": 140,
+        "weekday": 155
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.87458253287893, 40.71924449953279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 82,
+        "street": "WOODHAVEN BOULEVARD",
+        "wkdy18": 32,
+        "wknd18": 81,
+        "dev_avg18": 2.84,
+        "percentile": 0.0228571428571,
+        "weekend": 81,
+        "weekday": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.86891566620797, 40.72416736070983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 83,
+        "street": "QUEENS BOULEVARD",
+        "wkdy18": 1190,
+        "wknd18": 881,
+        "dev_avg18": 0.83,
+        "percentile": 0.85,
+        "weekend": 881,
+        "weekday": 1190
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.90520255098744, 40.74139920294448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 84,
+        "street": "63 AVENUE",
+        "wkdy18": 24,
+        "wknd18": 56,
+        "dev_avg18": 2.62,
+        "percentile": 0.0171428571429,
+        "weekend": 56,
+        "weekday": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.87258006608258, 40.72297248081053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 85,
+        "street": "UNION TURNPIKE",
+        "wkdy18": 29,
+        "wknd18": 35,
+        "dev_avg18": 1.36,
+        "percentile": 0.0207142857143,
+        "weekend": 35,
+        "weekday": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.85921837471203, 40.705083262991174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 86,
+        "street": "UNION TURNPIKE",
+        "wkdy18": 12,
+        "wknd18": 24,
+        "dev_avg18": 2.25,
+        "percentile": 0.00857142857143,
+        "weekend": 24,
+        "weekday": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.85932148540971, 40.70518004564104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 87,
+        "street": "WOODHAVEN BOULEVARD",
+        "wkdy18": 35,
+        "wknd18": 91,
+        "dev_avg18": 2.92,
+        "percentile": 0.025,
+        "weekend": 91,
+        "weekday": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.85962654063096, 40.71220814609729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 89,
+        "street": "WOODHAVEN BOULEVARD",
+        "wkdy18": 107,
+        "wknd18": 99,
+        "dev_avg18": 1.04,
+        "percentile": 0.0764285714286,
+        "weekend": 99,
+        "weekday": 107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.86913096887503, 40.724063155573475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 90,
+        "street": "WOODHAVEN BOULEVARD",
+        "wkdy18": 86,
+        "wknd18": 78,
+        "dev_avg18": 1.02,
+        "percentile": 0.0614285714286,
+        "weekend": 78,
+        "weekday": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.85985824638476, 40.71223852812674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 91,
+        "street": "QUEENS BOULEVARD",
+        "wkdy18": 230,
+        "wknd18": 333,
+        "dev_avg18": 1.63,
+        "percentile": 0.164285714286,
+        "weekend": 333,
+        "weekday": 230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92284093642132, 40.74381343893255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 92,
+        "street": "39 STREET",
+        "wkdy18": 300,
+        "wknd18": 147,
+        "dev_avg18": 0.55,
+        "percentile": 0.214285714286,
+        "weekend": 147,
+        "weekday": 300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9259613891245, 40.744978053452165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 93,
+        "street": "55 DRIVE",
+        "wkdy18": 26,
+        "wknd18": 15,
+        "dev_avg18": 0.65,
+        "percentile": 0.0185714285714,
+        "weekend": 15,
+        "weekday": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.90047534010665, 40.72549327724518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 94,
+        "street": "69 STREET",
+        "wkdy18": 135,
+        "wknd18": 105,
+        "dev_avg18": 0.87,
+        "percentile": 0.0964285714286,
+        "weekend": 105,
+        "weekday": 135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89494192911557, 40.7253587780667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 95,
+        "street": "79 STREET",
+        "wkdy18": 17,
+        "wknd18": 12,
+        "dev_avg18": 0.79,
+        "percentile": 0.0121428571429,
+        "weekend": 12,
+        "weekday": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.89042799864721, 40.767747976518145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 96,
+        "street": "64 ROAD",
+        "wkdy18": 42,
+        "wknd18": 61,
+        "dev_avg18": 1.63,
+        "percentile": 0.03,
+        "weekend": 61,
+        "weekday": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.86738406669842, 40.72111370514938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 97,
+        "street": "BROADWAY",
+        "wkdy18": 959,
+        "wknd18": 763,
+        "dev_avg18": 0.89,
+        "percentile": 0.685,
+        "weekend": 763,
+        "weekday": 959
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92125109579517, 40.760032079628054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 99,
+        "street": "STEINWAY STREET",
+        "wkdy18": 138,
+        "wknd18": 261,
+        "dev_avg18": 2.13,
+        "percentile": 0.0985714285714,
+        "weekend": 261,
+        "weekday": 138
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.92032529478755, 40.7573413701684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 101,
+        "street": "COOPER AVENUE",
+        "wkdy18": 178,
+        "wknd18": 136,
+        "dev_avg18": 0.86,
+        "percentile": 0.127142857143,
+        "weekend": 136,
+        "weekday": 178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.86800765835007, 40.70996402012066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 102,
+        "street": "12 STREET",
+        "wkdy18": 103,
+        "wknd18": 24,
+        "dev_avg18": 0.26,
+        "percentile": 0.0735714285714,
+        "weekend": 24,
+        "weekday": 103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.93761660830235, 40.76323366320036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 103,
+        "street": "PALMETTO STREET",
+        "wkdy18": 149,
+        "wknd18": 106,
+        "dev_avg18": 0.8,
+        "percentile": 0.106428571429,
+        "weekend": 106,
+        "weekday": 149
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.91852708643485, 40.691903641567926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 105,
+        "street": "LINDEN STREET",
+        "wkdy18": 157,
+        "wknd18": 138,
+        "dev_avg18": 0.99,
+        "percentile": 0.112142857143,
+        "weekend": 138,
+        "weekday": 157
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.91650283452054, 40.69635694682408]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 98,
+        "street": "JACKSON AVENUE",
+        "wkdy18": 478,
+        "wknd18": 330,
+        "dev_avg18": 0.78,
+        "percentile": 0.341428571429,
+        "weekend": 330,
+        "weekday": 478
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9438341083215, 40.74650066169981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 106,
+        "street": "FLUSHING AVENUE",
+        "wkdy18": 771,
+        "wknd18": 699,
+        "dev_avg18": 1.02,
+        "percentile": 0.550714285714,
+        "weekend": 699,
+        "weekday": 771
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.93069611534148, 40.70395173417254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 107,
+        "street": "BUSHWICK AVENUE",
+        "wkdy18": 167,
+        "wknd18": 201,
+        "dev_avg18": 1.35,
+        "percentile": 0.119285714286,
+        "weekend": 201,
+        "weekday": 167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.90374505230122, 40.68130268898199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 108,
+        "street": "CENTRAL AVENUE",
+        "wkdy18": 282,
+        "wknd18": 281,
+        "dev_avg18": 1.12,
+        "percentile": 0.201428571429,
+        "weekend": 281,
+        "weekday": 282
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9106198977, 40.68981432335677]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_uid_": 109,
+        "street": "IRVING AVENUE",
+        "wkdy18": 262,
+        "wknd18": 324,
+        "dev_avg18": 1.39,
+        "percentile": 0.187142857143,
+        "weekend": 324,
+        "weekday": 262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9054194608893, 40.69391558126662]
+      }
+    }
+  ]
+}
