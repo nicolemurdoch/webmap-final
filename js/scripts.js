@@ -2,9 +2,10 @@
   mapboxgl.accessToken = 'pk.eyJ1Ijoibmljb2xlbXVyZG9jaCIsImEiOiJjanV4MHpkcGkwaTllNDNzMGY1dWM5OXdvIn0.L10-eZL5K7-c8d7WemjfVg';
   const map = new mapboxgl.Map({
   container: 'map',
-  style: 'mapbox://styles/nicolemurdoch/cjvvcsfrd43lh1cmh4t49thbj',
-  center: [-73.886737, 40.743958],
-  zoom: 10.6,
+  style: 'mapbox://styles/nicolemurdoch/cjvvsrqzq4i9h1cmp3vzt155j',
+  center: [-73.884048, 40.728361],
+  pitch: 0,
+  zoom: 11,
   });
 
 map.scrollZoom.disable();
@@ -75,11 +76,13 @@ var layers = document.getElementById('menu');
 layers.appendChild(link);
 }
 
-var layers = ['0-92', '93-200', '201-449', '500-873', '874-1385'];
+map.on('load', function () {
 
-var colors = ['#FFEDA0', '#FED976', '#FEB24C', '#FD8D3C', '#FC4E2A', '#E31A1C', '#BD0026', '#800026'];
+  var layers = ['0-92', '93-200', '201-449', '500-873', '874-1385'];
 
- for (i = 0; i < layers.length; i++) {
+  var colors = ['#FFEDA0', '#FED976', '#FEB24C', '#FD8D3C', '#FC4E2A', '#E31A1C', '#BD0026', '#800026'];
+
+  for (i = 0; i < layers.length; i++) {
   var layer = layers[i];
   var color = colors[i];
   var item = document.createElement('div');
@@ -93,6 +96,7 @@ var colors = ['#FFEDA0', '#FED976', '#FEB24C', '#FD8D3C', '#FC4E2A', '#E31A1C', 
   item.appendChild(value);
   legend.appendChild(item);
 }
+});
 
 map.on('mousemove', function(e) {
   var weekdaycounts = map.queryRenderedFeatures(e.point, {
@@ -104,4 +108,6 @@ map.on('mousemove', function(e) {
   } else {
     document.getElementById('pd').innerHTML = '<p>Hover over a Point to see exact ridership and location site name!</p>';
   }
+//sets up default cursor to show that there is no further interactivity for the points on the map, just info that populates in side info
+  map.getCanvas().style.cursor = 'default';
 });

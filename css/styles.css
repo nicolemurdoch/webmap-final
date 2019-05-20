@@ -20,7 +20,7 @@ html, body {
 background: none;
 position: absolute;
 z-index: 1;
-top: 100px;
+top: 110px;
 right: 10px;
 border-radius: 1px;
 width: 150px;
@@ -28,7 +28,6 @@ border: 2px solid rgba(0,0,0,0.4);
 font-family: 'Open Sans', sans-serif;
 flex-wrap: wrap;
 }
-
 
 #menu a {
 font-size: 14px;
@@ -67,6 +66,7 @@ color: #FFF;
 * on the page. */
 .map-overlay {
   position: absolute;
+  margin-top: 40px;
   bottom: 0;
   right: 0;
   background: rgba(255, 255, 255, 0.8);
@@ -77,14 +77,15 @@ color: #FFF;
 }
 
 #features {
-  top: 0px;
-  height: 100px;
+  top: 100px;
+  height: 250px;
   margin-top: 0px;
   width: 250px;
 }
 
 #legend {
   padding: 10px;
+  top: 100px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   line-height: 18px;
   height: 100px;
