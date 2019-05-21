@@ -76,8 +76,10 @@ var layers = document.getElementById('menu');
 layers.appendChild(link);
 }
 
+//sets up the information that will populate in the map's info box when hovering over data points for the weekend volumes
 map.on('load', function () {
 
+//separate legend box to display color and size values for the cycling counts displayed on the map
   var layers = ['0-92', '93-200', '201-449', '500-873', '874-1385'];
 
   var colors = ['#FFEDA0', '#FED976', '#FEB24C', '#FD8D3C', '#FC4E2A', '#E31A1C', '#BD0026', '#800026'];
@@ -102,11 +104,18 @@ map.on('mousemove', function(e) {
   var weekdaycounts = map.queryRenderedFeatures(e.point, {
     layers: ['weekdaycounts']
   });
+  var weekendcounts = map.queryRenderedFeatures(e.point, {
+    layers: ['weekendcounts']
+  });
 
   if (weekdaycounts.length > 0) {
     document.getElementById('pd').innerHTML = '<h3><strong>' + weekdaycounts[0].properties.street + '</strong></h3><p><strong><em>' + weekdaycounts[0].properties.weekday + '</strong> = bicycle counts during 18-hour collection period.</em></p>';
-  } else {
-    document.getElementById('pd').innerHTML = '<p>Hover over a Point to see exact ridership and location site name!</p>';
+  }
+  else if (weekendcounts.length > 0) {
+    document.getElementById('pd').innerHTML = '<h3><strong>' + weekendcounts[0].properties.street + '</strong></h3><p><strong><em>' + weekendcounts[0].properties.weekend + '</strong> = bicycle counts during 18-hour collection period.</em></p>';
+  }
+  else {
+    document.getElementById('pd').innerHTML = '<p>Control the weekday and weekend volumes with the buttons above! When either is turned on/activated, hover over a point on the map to get more information about the site location!</p>';
   }
 //sets up default cursor to show that there is no further interactivity for the points on the map, just info that populates in side info
   map.getCanvas().style.cursor = 'default';
